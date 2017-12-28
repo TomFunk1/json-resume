@@ -1,0 +1,198 @@
+{
+  "basics": {
+    "name": "Tom Funk",
+    "label": "Senior Lead Architect",
+    "picture": "",
+    "email": "tfunk5@outlook.com",
+    "phone": "(720) 237-2390",
+    "website": "",
+    "summary": "Technology Innovator, Panel Speaker, Proven Architect, Multiple-patent holder, Team Lead and Collaborator",
+    "location": {
+      "address": "",
+      "postalCode": "CO 80120",
+      "city": "Littleton",
+      "countryCode": "US",
+      "region": "Colorado"
+    },
+    "profiles": [{
+      "network": "LinkedIn",
+      "username": "Tom Funk",
+      "url": "https://www.linkedin.com/in/tom-funk-2a2a819/"
+    }]
+  },
+  "work": [{
+    "company": "CenturyLink, Littleton, CO",
+    "position": "Senior Lead Architect",
+    "website": "http://www.centurylink.com",
+    "startDate": "2014-02-03",
+    "endDate": "present",
+    "summary": "Built/deployed secure, extensible, Cloud-Based IoT platform including gateway sensor aggregation,
+middleware telemetry data abstraction, Zabbix monitoring, bulk device management and various
+databases for predictive/prescriptive Big Data analytics and machine learning.
+Awarded 7 provisional and non-provisional utility patents in IoT and blockchain technologies.
+Served as team lead for cloud, virtualization, and system administration functions using CenturyLink
+Cloud facilities to deploy and secure RedHat, CentOS and Ubuntu servers.
+Designed/built Proof-of-concept platforms for NFV/SDN-capable CPE with containerized applications
+leveraging Docker and/or LXC. Orchestration through API, Portainer and Ansible. Load balancing through
+NGINX and HAProxy. Defined code management procedures through git and Jenkins.
+Built test and automation tools through Python, BASH and Node-RED to perform capacity modeling,
+data ETL, validations and other functions. Also build big data analytics tools through Spark, Scala, Kafka
+and Splunk.
+Vetted disruptive technology for consideration in the CenturyLink Network, these include
+Virtual/Augmented Reality, Distributed File Systems, Parallel Mesh computing, Parallel I/O SAN
+controllers, Video Caching, Load-Testing/Automation, data ETL and analytics tools.
+Design and deploy SAN arrays and virtualization layer on VMWare ESXi 5.x and 6.x along with
+accompanying virtual servers requiring survivable data paths, multiple VRFs and replicated databases.
+Design and provide expert level support on Carrier-Grade MPLS-based SIP platform utilizing F5,
+Broadsoft, Genesys, Acme Packet/Oracle, AdTran, CTIGroup, Metaswitch, Sonus, and Cisco elements.
+Update device deployment methods to utilize mutual TLS certificate-based client/server authentication
+and support PKI infrastructures.
+Implement PCI/HIPAA-compliant SIP call recording capable of SIPREC to accommodate multi-platform
+compatibility.
+Supported BroadSoft Device Management Services for one-touch provisioning, bulk configuration and
+firmware updates for CPE such as SIP endpoints, ATA gateway devices and VoIP routers.
+",
+    "highlights": [
+      "Presented Technical Demonstrations of my projects to Technical Advisory Board on three occasions. 2017 NARUC Innovation Panel Speaker. 2017 SmartCities Austin Presenter"
+    ]
+ "company": "ConnectandSell Inc, Remote, CO",
+    "position": "Senior Infrastructure Engineer
+",
+    "startDate": "2012-08-01",
+    "endDate": "2014-01-03",
+    "summary": "Served as the VoIP telephony expert for engineering tasks; design, support and deployment of clustered
+Asterisk application at the core of the company's primary service offering.
+Scripted custom solutions which met detailed requirements of Executive staff.
+Built testing facilities for quality control, DTMF recognition, capacity modeling and more.
+Added intelligent routing capabilities to enable business continuity and outage recovery.
+Integrated IAX and SIP peers and trunks and endpoints.
+Supported OpenSIPs and other SIP-Aware firewalls.
+Negotiated rate decks and tested with SIP trunk vendors for interoperability and functionality.
+Served as internal contact and administrator for corporate office cloud PBX.
+Maintained TDM gateway through interface cards in legacy data center.
+Support and deployment of CentOS 5 & 6 servers.
+",
+ "company": "Great-West Life, Greenwood Village, CO",
+    "position": "Lead Network Engineer",
+    "startDate": "2007-07-01",
+    "endDate": "2012-08-01",
+    "summary": "Consulted for architecture, infrastructure and client application issues as they related to
+computer-telephony integration.
+Designed, implemented and supported Asterisk open source PBX systems, including Interactive IVR load
+testing facilities, synthetic call transactions for quality assurance and call tree/reverse 911 functions.
+Deployed several Asterisk appliances as small and medium-sized office phone systems.
+Tested and validated system compatibility with local Emergency 911 systems.
+Linked, traced and directed SIP endpoints, trunks and internal applications.
+Vetted, tested and recommended various physical and software SIP endpoints.
+Designed and installed internal OpenMeetings webinar platform on Red5+Apache2 web server.
+Configured session border elements to proxy VoIP traffic as B2BUA on the following: OpenSBC, Sipera,
+Cisco Cube and ACME Packet.
+Deployed Redhat, CentOS and Debian based Linux servers, both physical and virtual. Virtual platforms
+include: VMWare, VirtualBox and KVM.
+Developed a Visual Basic .NET application to serve as a front-end to MS SQL and Oracle databases with
+commonly needed queries for use by telecom teammates in order to trace calls.
+Supported Avaya IC Interaction Center, SalesForce.com and Cisco ICM/Unified Communications.
+Also performed duties encompassed in the ICM Engineer responsibilities as outlined below.
+",
+ "company": "Great-West Life, Greenwood Village, CO",
+    "position": "ICM Engineer",
+    "startDate": "2007-01-01",
+    "endDate": "2007-07-01",
+    "summary": "Corporate single point of contact for all call routing, CTI path and CTI client issues.
+Automated and standardized Cisco ICM scripting for use by operations personnel.
+Assisted developers with the CTI Server and Object Server functions for the development of custom
+soft-phone and screen-pop applications based on Cisco Agent Desktop Toolkit 7.0.
+Dumping and expertly analyzing all possible process logs in ICM.
+Staging and implementation of additional ICM servers, software and peripherals.
+Strong ICM scripting, variable and custom function development.
+Developed complex, joined SQL queries for use in custom reporting applications.
+VoIP endpoint administration in both Avaya and Cisco CallManager PBXs.
+Documenting procedures and architecture.
+",
+ "company": "Great-West Life, Greenwood Village, CO",
+    "position": "TC Specialist",
+    "startDate": "2006-03-01",
+    "endDate": "2007-01-01",
+    "summary": "This position encompasses knowledge of all points of company telecommunications.
+ICM CTI provisioning and operations comprise the major focus of this scope of work.
+Served as the technical department lead participating in the design, implementation and testing of voice
+capable, data integrated Enterprise IVR systems, provided specifications for MS Windows 2000 and
+2003 servers on which ICM CTI applications and SQL databases reside.
+",
+ "company": "Great-West Life, Greenwood Village, CO",
+    "position": "CTI Analyst",
+    "startDate": "2004-10-01",
+    "endDate": "2006-03-01",
+    "summary": "Enterprise-wide support for computer-telephony integration including analysis, reports and call routing.
+Assured peak functionality for the critical operations of multiple call centers on various vendor platforms
+and having disparate call-flow requirements.
+Extensively used scripting, testing and troubleshooting applications on Cisco ICM Cisco Geotel Script
+Editor, Configuration Manager, Call Tracer, Router Log Viewer and Webview. Additionally, attained
+proficiency at querying complex SQL databases.
+",
+ "company": "Great-West Life, Greenwood Village, CO",
+    "position": "Voice Communication Analyst",
+    "startDate": "2000-04-01",
+    "endDate": "2004-10-01",
+    "summary": "A member of the home office and field office telecommunications teams supporting a corporate
+headquarter campus of approximately four thousand stations as well as several remote offices.
+Responsible for in-depth call center maintenance and infrastructure work. Desktop support and ACD
+reporting. Platforms included Avaya PBX and Call Management systems, NICE Systems call loggers,
+Symon reader boards, Windows NT, 2000, 2003, XP and assorted software applications.
+Other miscellaneous telecom-related duties.
+",
+ "company": "Lucent Technologies, Englewood, CO",
+    "position": "Tier III Engineer",
+    "startDate": "1997-12-01",
+    "endDate": "1999-012-01",
+    "summary": "Served as a remote diagnostics engineer responsible for overseeing the proper function of large
+business communications systems.
+Provided technical direction for company associates, field technicians and external customers.
+Had a heavy emphasis on problem solving with frequent opportunity for collaboration with Bell
+Laboratories software developers.
+Specialized in multiple SCSI device hardware running UNIX based voice messaging applications.
+Interpreted raw data transmitted between the adjunct and the following switching systems: AT T
+Lucent, Nortel, Centrex 5ESS and Rolm.
+",
+ "company": "Lucent Technologies, Englewood, CO",
+    "position": "System Application Specialist",
+    "startDate": "1996-04-01",
+    "endDate": "1997-12-01",
+    "summary": "Maintenance help-line technician in support of voice processing systems.
+Received trouble reports by way of electronic ticketing and automatic call distribution queue.
+Consistently met quality requirements for both.
+Assisted customers with software administration and field technicians with system restoration
+procedures.
+Focused on non-standard applications such as hospitality voicemail and call accounting systems.
+Hardware platforms included Olivetti 6386 and ACER MAP machines.
+"
+ }],
+"Additional Professional Experience": [{
+    "Event": "2017 NARUC Summer Policy Summit
+",
+    "Role": "Innovation Panel Speaker
+",
+    "Event": "2017 CenturyLink Technical Advisory
+
+",
+    "Role": "Board Technical Demonstration Presenter
+",
+    "Event": "2017 CenturyLink Board of Directors
+",
+    "Role": "Technical Demonstration Presenter
+",
+    "Event": "2016 CenturyLink Technical Advisory
+",
+    "Role": "Board Technical Demonstration Presenter
+"
+ }],
+  "education": [{
+    "institution": "Arapahoe Community College
+",
+    "area": "Business Administration, Management Concentration",
+    "studyType": "Associates of Applied Science",
+    "startDate": "2016-07-01",
+    "endDate": "present",
+    "gpa": "3.4"
+  }]
+}
